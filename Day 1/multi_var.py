@@ -1,0 +1,12 @@
+#Many Values to Mutiple Variables
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
+
+#One Value to Mutiple Variables
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
